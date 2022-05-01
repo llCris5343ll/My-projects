@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Cristian Isaac
+Main-Class: Bienvenida
+X-COMMENT: Mi primer proyecto en Java
